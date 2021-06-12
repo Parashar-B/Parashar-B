@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
->🌱 I’m currently learning *WEB-DEVELOPMENT*
+>🌱 I’m currently learning **WEB-DEVELOPMENT**
 
 <!--
 **Parashar-B/Parashar-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
