@@ -1,5 +1,4 @@
 ### Hi there 👋, 
-*****
 
 >🌱 I’m currently learning *WEB-DEVELOPMENT*
 
